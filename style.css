@@ -1,6 +1,7 @@
 .body-sec {
     background-color: #dadde1;
-    display: flex;    
+    display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     border: 1px solid #dadde1;
