@@ -1,0 +1,116 @@
+.body-sec {
+    background-color: #dadde1;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dadde1;
+    height: 60vh;
+    padding-top: 72px;
+    padding-bottom: 112px;
+    padding-left: 25px;
+    padding-right: 50px;
+}
+
+img {
+    width: 325px;
+}
+
+.para {
+    font-size: 23px;
+    text-align: left;
+    margin: 0 0 0 35px;
+}
+
+.credentials-box {
+    padding-top: 10px;
+    padding-bottom: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    height: 35vh;
+    width: 400px;
+    margin: 20px 16px;
+    background-color: #fff;
+}
+
+.login{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 80%;
+    border: 1px solid #daddda;
+    border-radius: 5px;
+}
+.btn{
+    background-color: #1877f2;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    font-size: large;
+    width: 85%;
+    margin: 5px;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+}
+
+.body-sec>div>a{
+    color: #1877f2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.btn-2 {
+    width: 60%;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+.fb-page {
+    text-align: center;
+}
+.fb-page > span{
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    font-size: small;
+    color: #979797;
+}
+li {
+    display: inline;    
+    margin-right: 15px;
+}
+li > a {
+    color: #979797;
+}
+li > a:hover {
+    color: #435560;
+}
+
+hr {
+    width: 90%;
+}
+
+.foot-sec > div > p {
+    color: #979797;
+    text-align: left;
+    margin-left: 45px;
+}
+
+.foot-sec > div {
+    align-items: center;
+    /* text-align: center; */
+}
+.foot-sec {
+    align-items: center;
+}
